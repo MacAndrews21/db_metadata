@@ -10,3 +10,5 @@ import functions as fs
 #print names[0]
 
 res = fs.getResolution("/home/andreas/Projekte/test-data/", "1011_1956.tif")
+
+
